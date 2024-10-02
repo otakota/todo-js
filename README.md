@@ -1,2 +1,3 @@
 # todo-js
-Created with CodeSandbox
+JavaScriptだけでtodoリストを作ってみてるよ
+Reactのありがたみを感じるね
